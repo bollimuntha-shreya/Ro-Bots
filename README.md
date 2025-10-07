@@ -1,5 +1,5 @@
 # Robotics Projects Repository
-Welcome to the **Ro-Bots** repository! This collection showcases our comprehensive projects in robotics, computer vision, and sensor calibration. Each project is organized into its respective folder, containing all necessary code, documentation, and resources.
+Welcome to the **Ro-Bots** repository! These are projects I completed as part of the **Mobile Robotics** course. This collection showcases my work in robotics, computer vision, and sensor calibration. Each project is organized into its respective folder, containing all necessary code and resources.
 
 ## Table of Contents
 - [ICP SLAM](#1-icp-slam)
