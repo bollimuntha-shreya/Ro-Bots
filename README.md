@@ -2,9 +2,9 @@
 Welcome to the **Ro-Bots** repository! These are projects I completed as part of the **Mobile Robotics** course. This collection showcases my work in robotics, computer vision, and sensor calibration. Each project is organized into its respective folder, containing all necessary code and resources.
 
 ## Table of Contents
-- [ICP SLAM](#1-icp-slam)
-- [Stereo Dense Reconstruction](#2-stereo-dense-reconstruction)
-- [IMU Camera Calibration](#3-imu-camera-calibration)
+- [ICP SLAM](#icp-slam-the-ro-bots)
+- [Stereo Dense Reconstruction](#imu-camera-callibration-the-ro-bots)
+- [IMU Camera Calibration](#stereo-dense-reconstruction-the-ro-bots)
 
 ---
 
