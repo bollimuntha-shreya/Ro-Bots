@@ -3,8 +3,8 @@ Welcome to the **Ro-Bots** repository! These are projects I completed as part of
 
 ## Table of Contents
 - [ICP SLAM](#icp-slam-the-ro-bots)
-- [Stereo Dense Reconstruction](#imu-camera-callibration-the-ro-bots)
-- [IMU Camera Calibration](#stereo-dense-reconstruction-the-ro-bots)
+- [Stereo Dense Reconstruction](#stereo-dense-reconstruction-the-ro-bots))
+- [IMU Camera Calibration](#imu-camera-callibration-the-ro-bots)
 
 ---
 
